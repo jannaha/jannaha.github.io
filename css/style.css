@@ -141,8 +141,12 @@
 	/*Added by me*/
 	#italic-info{
 		font-style: italic;
-		font-size: 16;
+		font-size: 14px;
 		margin-bottom: 1em;
+	}
+
+	#personal-info{
+		font-size: 16px;
 	}
 
 	/* Form */
