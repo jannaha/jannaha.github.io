@@ -138,6 +138,12 @@
 		margin-bottom: 2em;
 	}
 
+	/*Added by me*/
+	#italic-info{
+		font-style: italic;
+		font-size: 20px;
+	}
+
 	/* Form */
 	
 		form
